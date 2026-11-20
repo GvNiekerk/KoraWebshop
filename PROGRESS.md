@@ -1,4 +1,4 @@
-Lesson 0: setup done
+Versions of dependencies:
 Node v26.13.1
  "dependencies": {
     "react": "^19.3.1",
@@ -15,3 +15,4 @@ Node v26.13.1
     "globals": "^17.13.0",
     "vite": "^8.3.6"
   }
+Lesson 0: setup done
