@@ -16,4 +16,4 @@ Node v26.13.1
     "vite": "^8.3.6"
   }
 Lesson 0: setup done
-Lesson 1: Added basic components for Header, Hero, ProductCard, ProductGrid and Footer with basic styling.
+Lesson 1: components done. Header, Hero, ProductGrid, ProductCard, Footer in src/components. Shop name: Kora. Next: lesson 2, props and lists.
