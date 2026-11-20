@@ -16,3 +16,4 @@ Node v26.13.1
     "vite": "^8.3.6"
   }
 Lesson 0: setup done
+Lesson 1: Added basic components for Header, Hero, ProductCard, ProductGrid and Footer with basic styling.
